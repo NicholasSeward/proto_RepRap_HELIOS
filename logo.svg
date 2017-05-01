@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Model_Space" />
+    <pattern
+       id="Hatch"
+       x="0"
+       y="0"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8">
+      <path
+         id="path2995"
+         d="M8 4 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path2997"
+         d="M6 2 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path2999"
+         d="M4 0 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+    </pattern>
+    <marker
+       orient="auto"
+       id="DistanceX"
+       style="overflow:visible"
+       refX="0.0"
+       refY="0.0">
+      <path
+         id="path2992"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5" />
+    </marker>
+    <symbol
+       id="*Paper_Space0-9" />
+    <symbol
+       id="*Paper_Space-0" />
+    <symbol
+       id="*Model_Space-4" />
+    <pattern
+       id="Hatch-7"
+       x="0"
+       y="0"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8">
+      <path
+         id="path3030"
+         d="M8 4 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path3032"
+         d="M6 2 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path3034"
+         d="M4 0 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+    </pattern>
+    <marker
+       orient="auto"
+       id="DistanceX-1"
+       style="overflow:visible"
+       refX="0.0"
+       refY="0.0">
+      <path
+         id="path3027"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5" />
+    </marker>
+    <symbol
+       id="*Paper_Space0-4" />
+    <symbol
+       id="*Paper_Space-2" />
+    <symbol
+       id="*Model_Space-8" />
+    <pattern
+       id="Hatch-8"
+       x="0"
+       y="0"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8">
+      <path
+         id="path3090"
+         d="M8 4 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path3092"
+         d="M6 2 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path3094"
+         d="M4 0 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+    </pattern>
+    <marker
+       orient="auto"
+       id="DistanceX-4"
+       style="overflow:visible"
+       refX="0.0"
+       refY="0.0">
+      <path
+         id="path3087"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47920083"
+     inkscape:cx="593.2108"
+     inkscape:cy="587.35308"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3957"
+       width="1227.043"
+       height="648.99719"
+       x="-150.25015"
+       y="46.520844"
+       rx="20" />
+    <g
+       id="g3004"
+       inkscape:label="0" />
+    <g
+       id="g3039"
+       inkscape:label="0" />
+    <g
+       id="g3099"
+       inkscape:label="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3136"
+       style="font-size:131.59609985000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       d="m 249.90052,378.63833 20.52976,0 0,91.1952 -20.52976,0 0,-38.69009 -34.47731,0 0,38.69009 -20.52977,0 0,-91.1952 20.52977,0 0,34.87088 34.47731,0 z"
+       inkscape:export-filename="C:\Users\employee\Desktop\SCARA\logo.png"
+       inkscape:export-xdpi="208.14035"
+       inkscape:export-ydpi="208.14035" />
+    <g
+       id="g3154"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       inkscape:export-filename="C:\Users\employee\Desktop\SCARA\logo.png"
+       inkscape:export-xdpi="208.14035"
+       inkscape:export-ydpi="208.14035">
+      <path
+         d="m 291.53433,469.83353 0,-91.1952 61.58929,0 0,17.23665 -41.05953,0 0,17.89928 36.45318,0 0,16.84308 -36.45318,0 0,21.97552 44.08759,0 0,17.24067 z"
+         style="font-size:131.59609985000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path3138"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 432.14232,452.1993 0,17.63423 -60.93067,0 0,-91.1952 20.52976,0 0,73.56097 z"
+         style="font-size:131.59609985000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path3140"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 445.23445,378.63833 20.52976,0 0,91.1952 -20.52976,0 z"
+         style="font-size:131.59609985000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path3142"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 504.11296,424.17167 c -3e-5,4.47386 0.54815,8.50926 1.64455,12.10622 1.09633,3.59702 2.67529,6.68933 4.73686,9.27694 2.06151,2.58766 4.58422,4.58361 7.56814,5.98785 2.98384,1.40428 6.4048,2.10641 10.26288,2.10639 3.7723,2e-5 7.17184,-0.70211 10.19862,-2.10639 3.02665,-1.40424 5.57078,-3.40019 7.63239,-5.98785 2.06147,-2.58761 3.6411,-5.67992 4.73888,-9.27694 1.09763,-3.59696 1.64648,-7.63236 1.64655,-12.10622 -7e-5,-4.47644 -0.54892,-8.5346 -1.64655,-12.17448 -1.09778,-3.63977 -2.67741,-6.75417 -4.73888,-9.34322 -2.06161,-2.5889 -4.60574,-4.58485 -7.63239,-5.98784 -3.02678,-1.40285 -6.42632,-2.10431 -10.19862,-2.10438 -3.85808,7e-5 -7.27904,0.72362 -10.26288,2.17064 -2.98392,1.44717 -5.50663,3.46454 -7.56814,6.0521 -2.06157,2.58771 -3.64053,5.70211 -4.73686,9.34322 -1.0964,3.64122 -1.64458,7.65587 -1.64455,12.04396 z m 69.61324,0 c -9e-5,7.80713 -1.16205,14.6718 -3.48588,20.59402 -2.32401,5.92227 -5.50401,10.87867 -9.53999,14.86922 -4.03616,3.99057 -8.83995,6.9952 -14.4114,9.0139 -5.57159,2.0187 -11.55943,3.02806 -17.96354,3.02806 -6.22752,0 -12.10492,-1.00936 -17.63222,-3.02806 -5.52738,-2.0187 -10.35259,-5.02333 -14.47566,-9.0139 -4.1231,-3.99055 -7.36936,-8.94695 -9.73878,-14.86922 -2.36945,-5.92222 -3.55416,-12.78689 -3.55416,-20.59402 0,-7.80971 1.22822,-14.67572 3.68468,-20.59803 2.45643,-5.92218 5.76829,-10.90067 9.93557,-14.93549 4.16724,-4.03465 8.99245,-7.06136 14.47565,-9.08016 5.48313,-2.01861 11.25143,-3.02796 17.30492,-3.02806 6.23009,1e-4 12.10883,1.00945 17.63624,3.02806 5.52727,2.0188 10.35248,5.04551 14.47565,9.08016 4.123,4.03482 7.36859,9.01331 9.73678,14.93549 2.368,5.92231 3.55205,12.78832 3.55214,20.59803 z"
+         style="font-size:131.59609985000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path3144"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3146"
+       style="font-size:131.59609985000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       d="m 615.58489,454.17516 c 2.89415,2e-5 5.28434,-0.24161 7.17056,-0.72488 1.88613,-0.48324 3.39949,-1.1412 4.54008,-1.97386 1.14049,-0.83263 1.9303,-1.81923 2.36943,-2.95979 0.43904,-1.14052 0.65858,-2.41359 0.65863,-3.81921 -5e-5,-2.98252 -1.40431,-5.46038 -4.21278,-7.43361 -2.80856,-1.97315 -7.63311,-4.10029 -14.47364,-6.38141 -2.98525,-1.05483 -5.96914,-2.26163 -8.95166,-3.62042 -2.98256,-1.3587 -5.65788,-3.06884 -8.02596,-5.13043 -2.36811,-2.0615 -4.29779,-4.56212 -5.78906,-7.50188 -1.49128,-2.93965 -2.23691,-6.51522 -2.2369,-10.72672 -10e-6,-4.21137 0.78913,-8.00581 2.36742,-11.38334 1.57828,-3.37737 3.81519,-6.25014 6.71073,-8.61832 2.89551,-2.36801 6.40482,-4.18859 10.52793,-5.46175 4.12306,-1.27298 8.77223,-1.90951 13.94755,-1.90961 6.14175,1e-4 11.45022,0.65872 15.92542,1.97587 4.4751,1.31734 8.15977,2.76443 11.05403,4.34129 l -5.92359,16.18847 c -2.54353,-1.31717 -5.37212,-2.4798 -8.4858,-3.48789 -3.11378,-1.00794 -6.86472,-1.51194 -11.25282,-1.51202 -4.91293,8e-5 -8.44366,0.67945 -10.59218,2.03812 -2.14859,1.35882 -3.22286,3.44244 -3.22284,6.25089 -2e-5,1.66805 0.39421,3.0723 1.18271,4.21278 0.78845,1.14061 1.9069,2.17138 3.35537,3.09232 1.4484,0.92106 3.1157,1.75438 5.00192,2.49995 1.88614,0.7457 3.96977,1.51342 6.25089,2.30318 4.73615,1.7537 8.85923,3.48593 12.36927,5.19669 3.50992,1.71086 6.42686,3.70681 8.75085,5.98785 2.32385,2.28113 4.05608,4.95711 5.19669,8.02797 1.14048,3.07093 1.71075,6.79911 1.71082,11.18455 -7e-5,8.51124 -2.98262,15.11353 -8.94764,19.80688 -5.96514,4.69336 -14.95695,7.04004 -26.97543,7.04004 -4.03745,0 -7.67928,-0.24163 -10.92551,-0.72489 -3.24629,-0.48326 -6.11906,-1.07562 -8.61833,-1.77708 -2.4993,-0.70146 -4.64852,-1.44709 -6.44768,-2.23691 -1.79917,-0.7898 -3.3132,-1.53544 -4.54209,-2.2369 l 5.79107,-16.31699 c 2.72015,1.49129 6.07618,2.82929 10.0681,4.01399 3.99187,1.18473 8.88334,1.77709 14.67444,1.77707 z"
+       inkscape:export-filename="C:\Users\employee\Desktop\SCARA\logo.png"
+       inkscape:export-xdpi="208.14035"
+       inkscape:export-ydpi="208.14035" />
+    <text
+       xml:space="preserve"
+       style="font-size:62.75079345999999700px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New;opacity:1"
+       x="286.02524"
+       y="356.28207"
+       id="text3119"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\employee\Desktop\SCARA\logo.png"
+       inkscape:export-xdpi="208.14035"
+       inkscape:export-ydpi="208.14035"><tspan
+         sodipodi:role="line"
+         id="tspan3121"
+         x="286.02524"
+         y="356.28207"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">RepRap</tspan></text>
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 423.2007,478.0667 c -80.17948,0 -157.06424,14.13112 -228.3075,40.02705 73.04666,-18.417 149.53244,-28.21804 228.3075,-28.21804 78.77506,0 155.26084,9.80104 228.3075,28.21804 C 580.26494,492.19782 503.38018,478.0667 423.2007,478.0667 z"
+       id="path3131"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\employee\Desktop\SCARA\logo.png"
+       inkscape:export-xdpi="208.14035"
+       inkscape:export-ydpi="208.14035" />
+  </g>
+</svg>
